@@ -32,8 +32,7 @@ pip install streamlit
 
 Clone the Repository:
 
-git clone https://github.com/Sinchana/password-generator.git
-
+git clone [(https://github.com/ksinchanabhandary-byte/Random_Password)](https://github.com/ksinchanabhandary-byte/Random_Password)
 To Run:
 
 streamlit run app.py
